@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/nk2IsHere/when/master/doc/ternary_hell.jpg"/>
 
 ### Now Check This!®
-<img src="https://raw.githubusercontent.com/nk2IsHere/when/master/doc/when_heaven.jpg"/>
+<img src="https://raw.githubusercontent.com/nk2IsHere/when/master/doc/when_heaven.png"/>
 
 ## How to use this super-awesome super-helpful super-non-flutter-way library©
 
