@@ -1,6 +1,6 @@
 name: when_expression
 description: when expression written for Dart and it tries to imitate kotlin's behaviour
-version: 1.0.0
+version: 1.0.1
 author: nk2 <nikkoz893@gmail.com>
 homepage: https://github.com/nk2ishere/when
 
