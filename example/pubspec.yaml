@@ -1,13 +1,14 @@
-name: when_expression
-description: when expression written for Dart and it tries to imitate kotlin's behaviour
-version: 1.0.0
-author: nk2 <nikkoz893@gmail.com>
-homepage: https://github.com/nk2ishere/when
+name: when_example
+description: A new Flutter package project.
+version: 0.0.1
+author:
+homepage:
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
+  when_expression: 1.0.1
   flutter:
     sdk: flutter
 
