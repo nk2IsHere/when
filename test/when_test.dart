@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:when/when.dart';
+import 'package:when_expression/when.dart';
 
 void main() {
   test('it generally works', () {

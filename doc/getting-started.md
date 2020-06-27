@@ -12,6 +12,11 @@
 <img src="https://raw.githubusercontent.com/nk2IsHere/when/master/doc/when_heaven.png"/>
 
 ## How to use this super-awesome super-helpful super-non-flutter-way library©
+0. Use `pub.dev` to get this *s-a s-h s-n-f-w* library©
+```
+dependencies:
+  when_expression: ^1.0.0
+```
 
 1. Define `when™` statement
 ```
